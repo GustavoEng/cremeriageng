@@ -208,7 +208,7 @@
 <!doctype html>
 <html>
   <head>
-      <title>Aqua Pet | Ventas</title>
+      <title>Ventas</title>
     
       <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="img/Logo2.ico" />

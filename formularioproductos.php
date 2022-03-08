@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
 
 <html>
 <head>
-	<title>Aqua Pet | Registrar</title>
+	<title>Registrar</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->

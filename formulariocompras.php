@@ -130,7 +130,7 @@ if ($resultado){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Aqua Pet | Ingresar Mercancia</title>
+	<title>Ingresar Mercancia</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->

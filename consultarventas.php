@@ -15,7 +15,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Aqua Pet | Consultar</title>
+	<title>Consultar Ventas</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="img/Logo2.ico" />
